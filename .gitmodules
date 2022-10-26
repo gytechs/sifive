@@ -13,3 +13,6 @@
 [submodule "meta-sifive"]
 	path = meta-sifive
 	url = https://github.com/gytechs/sifive.git
+[submodule "openembedded-core"]
+	path = openembedded-core
+	url = https://github.com/gytechs/sifive.git
