@@ -1,3 +1,6 @@
 [submodule "freedom-u-sdk"]
 	path = freedom-u-sdk
 	url = https://github.com/gytechs/sifive.git
+[submodule "meta-clang"]
+	path = meta-clang
+	url = https://github.com/gytechs/sifive.git
