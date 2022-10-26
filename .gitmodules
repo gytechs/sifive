@@ -4,3 +4,6 @@
 [submodule "meta-clang"]
 	path = meta-clang
 	url = https://github.com/gytechs/sifive.git
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = https://github.com/gytechs/sifive.git
