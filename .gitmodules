@@ -10,3 +10,6 @@
 [submodule "meta-riscv"]
 	path = meta-riscv
 	url = https://github.com/gytechs/sifive.git
+[submodule "meta-sifive"]
+	path = meta-sifive
+	url = https://github.com/gytechs/sifive.git
